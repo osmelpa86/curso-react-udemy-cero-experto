@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd21d13a-080e-47d1-a4bb-3ccce5dbc2ef" name="Changes" comment="&gt;First commit" />
+    <list default="true" id="cd21d13a-080e-47d1-a4bb-3ccce5dbc2ef" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/eslint.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/public/favicon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/public/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/src/assets/hero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/src/assets/react.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/src/assets/vite.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/src/main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4-crud-firebase/vite.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +113,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773635263584</updated>
       <workItem from="1773635266009" duration="478000" />
-      <workItem from="1773635949754" duration="948000" />
+      <workItem from="1773635949754" duration="1165000" />
     </task>
     <task id="LOCAL-00001" summary="&gt;First commit">
       <option name="closed" value="true" />
@@ -106,15 +123,26 @@
       <option name="project" value="LOCAL" />
       <updated>1773635343682</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1773636931329</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773636931329</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="&gt;First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="&gt;First commit" />
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
